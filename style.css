@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.nama{
+    color: white;
+}
+
+.badan{
+    color: white;
+}
+
+button{
+    list-style-type: none;
+}
